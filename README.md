@@ -3,8 +3,8 @@
 Welcome to my Microsoft-focused cybersecurity portfolio. This repository contains hands-on secuity engineering labs designed to build practical experience in endpoint security, identity security, security operations, threat detection, incident response, and automation within the Microsoft Security ecosystem. 
 These projects simulate real-world enterprise environments using microsoft security technologies, including Microsoft Defender XDR, Microsoft Sentinel Microsoft Entra ID, Active Directory, PowerShell, and Kusto Query Language (KQL).
 
-# About The Admin
-Hello there, I'm The Admin! I am a cybersecurity professional focused on Microsoft security technologies, endpoint protection, identity security, and security operations. 
+# About the Admin
+Hello there, I'm Jenna! I am a cybersecurity professional focused on Microsoft security technologies, endpoint protection, identity security, and security operations. 
 My background includes IT support, Microsoft 365 Administration, Active Directory, Microsoft Entra ID, security alert triage, and phishing investigations.
 Through this Github, my goal is to expand my hands-on security engineering skills through practical labs focused on detection engineering, threat hunting, incident response, and security automation.
 
