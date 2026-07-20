@@ -6,7 +6,35 @@ These projects simulate real-world enterprise environments using microsoft secur
 # About the Admin
 Hello there, I'm Jenna! I am a cybersecurity professional focused on Microsoft security technologies, endpoint protection, identity security, and security operations. 
 My background includes IT support, Microsoft 365 Administration, Active Directory, Microsoft Entra ID, security alert triage, and phishing investigations.
-Through this Github, my goal is to expand my hands-on security engineering skills through practical labs focused on detection engineering, threat hunting, incident response, and security automation.
+I created this portfolio to demonstrate hands-on security engineering skills through practical labs involving Microsoft Defender XDR, Microsoft Sentinel, identity security, threat detection, incident response, and automation.
+My goal is to continue developing as a cybersecurity engineer by building secure enterprise environments, improving detection capabilities, and applying security best practices.
+
+# About This Portfolio
+These labs were created to develop and demonstrate skills aligned with cybersecurity engineering and security operations roles.
+
+The projects focus on:
+- Security Operations Center (SOC) workflows
+- Endpoint Detection and Response (EDR)
+- Security Information and Event Management (SIEM)
+- Identity and Access Management (IAM)
+- Threat Hunting
+- Detection Engineering
+- Incident Response
+- Security Automation
+---
+
+# Tools & Technologies
+| Category | Technologies |
+|---|---|
+| Endpoint Security | Microsoft Defender XDR, Defender for Endpoint |
+| SIEM | Microsoft Sentinel |
+| Identity | Entra ID, Active Directory |
+| Cloud | Microsoft Azure |
+| Query Language | KQL |
+| Automation | PowerShell, Power Automate |
+| Systems | Windows Server, Windows 11 |
+| Frameworks | MITRE ATT&CK |
+---
 
 # Cybersecurity Labs
 ## Microsoft Defender XDR Lab
@@ -69,19 +97,6 @@ Each lab includes:
 - Investigation procedures
 - Remediation steps
 - Lessons learned
----
-
-# Tools & Technologies
-| Category | Technologies |
-|---|---|
-| Endpoint Security | Microsoft Defender XDR, Defender for Endpoint |
-| SIEM | Microsoft Sentinel |
-| Identity | Entra ID, Active Directory |
-| Cloud | Microsoft Azure |
-| Query Language | KQL |
-| Automation | PowerShell, Power Automate |
-| Systems | Windows Server, Windows 11 |
-| Frameworks | MITRE ATT&CK |
 ---
 
 # Career Focus
