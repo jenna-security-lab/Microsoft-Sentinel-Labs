@@ -1,4 +1,4 @@
-# Defender-XDR-Architecture-Details
+# Architecture Design
 
 ## Overview
 The environment consists of:
