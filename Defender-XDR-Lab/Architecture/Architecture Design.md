@@ -29,7 +29,7 @@ The environment consists of:
      │    Windows 11   │                            │    Windows 11    │
      │Employee Endpoint│                            │  Admin Endpoint  │
      │  Defender MDE   │                            │   Defender MDE   │
-     │ User: sarah.acc │                            │ User: john.admin │
+     │ User: sarah.acc │                            │ User: mike.admin │
      └────────┬────────┘                            └─────────┬────────┘
               │                                               │
               └──────────────────────┬────────────────────────┘
